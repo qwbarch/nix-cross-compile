@@ -1,0 +1,1 @@
+nix build .\#x86_64-w64-mingw32:project1:exe:project1
